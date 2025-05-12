@@ -8,6 +8,6 @@ Dette prosjektet er en enkel frontend-applikasjon som består av tre filer: inde
 
 Egne funksjoner for brukerstyrt filtrering på kartlagene er lagt til for å hjelpe brukerene med å få et oversiktlig bilde av infrastrukturen de selv ønsker å se på, og popups koblet til hvert punkt gir brukeren relevant info som navn, spenning, strekning eller lignende (se Figur 1).
 
-![](bilde1.png)
+![](Bilder/bilde1.png)
 
 Figur 1: Viser popup koblet til en kratledning på sentralkraftnettet
