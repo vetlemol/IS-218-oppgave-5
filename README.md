@@ -10,3 +10,14 @@ Egne funksjoner for brukerstyrt filtrering på kartlagene er lagt til for å hje
 ![](Bilder/bilde1.png)
 
 Figur 1: Viser popup koblet til en kratledning på sentralkraftnettet
+
+
+
+
+
+Videoene under viser oppstart av applikasjonen, infobokser til markeringene, endring av bakgrunnskart og filtrering av datasett 
+![](Bilder/Figur1.gif)
+
+![](Bilder/Figur2.gif)
+
+![](Bilder/Figur3.gif)
